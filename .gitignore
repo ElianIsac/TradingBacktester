@@ -1,0 +1,14 @@
+backend/venv/
+backend/__pycache__/
+backend/.env
+frontend/node_modules/
+frontend/build/
+frontend/.pnp.*
+frontend/.env*
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+.DS_Store
+*.pyc
+*.swp
